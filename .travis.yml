@@ -1,4 +1,4 @@
-# Use Travis's cointainer based infrastructure
+# Use Travis's container based infrastructure
 sudo: false
 addons:
   apt:
